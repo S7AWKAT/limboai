@@ -93,6 +93,7 @@ csx/
 
 # Windows Store app package directory
 AppPackages/
+temp_auto_push.bat
 
 # Others
 sql/
@@ -174,7 +175,6 @@ godot.creator.*
 
 # Visual Studio 2017 and Visual Studio Code workspace folder
 /.vs
-/.vscode
 
 # Visual Studio Code workspace file
 *.code-workspace
@@ -190,3 +190,5 @@ compile_commands.json
 
 # clang cache
 .cache
+temp_interactive_push.bat
+branch_structure.json
